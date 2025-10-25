@@ -38,7 +38,7 @@ The dataset includes:
 - Seasonal peaks observed in **Q4 each year**, indicating festive demand.
 
 ## 🖼️ Dashboard Preview
-*(Add a screenshot here)*  
+ 
 `Images/Dashboard_Preview.png`
 
 ## 📁 Files in This Repository
