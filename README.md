@@ -51,6 +51,6 @@ The dataset includes:
 
 ## 👩‍💻 Author
 **Saloni Shrigoud**  
-📍 Ujjain, Madhya Pradesh, India  
+ Madhya Pradesh, India  
 💼 Aspiring Data Analyst | Excel | SQL | Power BI | Python  
-🔗 [LinkedIn Profile](https://www.linkedin.com/)
+
